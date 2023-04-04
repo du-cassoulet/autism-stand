@@ -5,16 +5,47 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<script src="script.js" type="module" defer></script>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="style.css" />
+		<script
+			src="https://kit.fontawesome.com/79d6801984.js"
+			crossorigin="anonymous"
+		></script>
 		<title>Document</title>
 	</head>
 	<body>
-		<form id="chart-form">
-			<input type="text" id="chart-url" />
-			<button type="submit">Submit</button>
+		<form id="chart-form" class="chart-form">
+			<p class="input-title">
+				<i class="fas fa-link" style="margin-right: 5px; font-size: 13px"></i>
+				Autism Chart URL
+			</p>
+			<input
+				type="url"
+				id="chart-url"
+				autocomplete="off"
+				spellcheck="false"
+				class="stand-input"
+				placeholder="https://charts.idrlabs.com/graphic/"
+			/>
+			<button type="submit" class="submit-button">Submit</button>
+			<p class="input-sub">
+				You don't know what i am talking about ?
+				<a
+					href="https://www.idrlabs.com/autism-spectrum/test.php"
+					target="_blank"
+				>
+					Take the test
+				</a>
+			</p>
 		</form>
-		<section hidden id="stand-reveal">
-			<article>
-				<h2 id="stand-name"></h2>
+		<section hidden id="stand-reveal" class="stand-reveal">
+			<article class="stand-info">
+				<h2 id="stand-name" class="stand-name"></h2>
 				<div>
 					<p>Power: <span id="stand-stats-power"></span></p>
 					<p>Speed: <span id="stand-stats-speed"></span></p>

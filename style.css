@@ -2,8 +2,156 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: "Rubik", sans-serif;
+	font-size: 15px;
 }
 
 *[hidden] {
 	display: none !important;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	background: #121218;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.chart-form {
+	padding: 50px 0;
+}
+
+.input-title {
+	color: #ddd;
+	padding: 5px;
+}
+
+.input-sub {
+	color: #888;
+	font-size: 13px;
+	padding: 5px;
+}
+
+.input-sub a {
+	color: #ccc;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.input-sub a:hover {
+	text-decoration: underline;
+}
+
+.stand-input {
+	width: 450px;
+	padding: 10px 15px;
+	font-size: 18px;
+	outline: none;
+	background: #26262f;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.stand-input:hover {
+	transition: 100ms ease-in-out;
+	background: #30303b;
+}
+
+.submit-button {
+	padding: 10px 15px;
+	font-size: 18px;
+	outline: none;
+	background: #26262f;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	margin-left: 5px;
+}
+
+.submit-button:hover {
+	transition: 100ms ease-in-out;
+	background: #30303b;
+}
+
+.stand-reveal {
+	background: #26262f;
+	width: 550px;
+	border-radius: 5px;
+	padding: 25px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.stand-reveal canvas {
+	border-radius: 5px;
+}
+
+.stand-info {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.stand-info div {
+	margin-top: 15px;
+	margin-bottom: 25px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	place-items: center;
+}
+
+.stand-info div p {
+	color: #aaa;
+	font-weight: 500;
+	margin: 3px 0;
+	font-style: italic;
+}
+
+.stand-info div p span {
+	color: #fff;
+	font-weight: 100;
+	font-style: normal;
+}
+
+.stand-name {
+	font-size: 30px;
+	color: #fff;
+	font-style: italic;
+}
+
+@media screen and (max-width: 500px) {
+	.chart-form {
+		padding: 25px 0;
+		width: calc(100% - 50px);
+	}
+
+	.stand-reveal {
+		width: calc(100% - 50px);
+	}
+
+	.stand-name {
+		font-size: 22px;
+	}
+
+	.stand-input {
+		width: 100%;
+	}
+
+	.submit-button {
+		margin-top: 10px;
+		margin-left: 0;
+		width: 100%;
+	}
+
+	.input-title,
+	.input-sub {
+		padding: 10px 5px;
+	}
 }
