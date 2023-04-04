@@ -1,0 +1,1406 @@
+[
+	{
+		"name": "Anubis",
+		"power": 3,
+		"speed": 3,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Atum",
+		"power": 1,
+		"speed": 2,
+		"range": 1,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Bastet",
+		"power": 0,
+		"speed": 0,
+		"range": 3,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Cream",
+		"power": 3,
+		"speed": 3,
+		"range": 1,
+		"durability": 2,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Death Thirteen",
+		"power": 2,
+		"speed": 2,
+		"range": 0,
+		"durability": 3,
+		"precision": 1,
+		"potential": 3
+	},
+	{
+		"name": "Geb",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "High Priestess",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Horus",
+		"power": 3,
+		"speed": 3,
+		"range": 1,
+		"durability": 2,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Judgement",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Khnum",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Osiris",
+		"power": 0,
+		"speed": 1,
+		"range": 1,
+		"durability": 2,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Sethan",
+		"power": 1,
+		"speed": 1,
+		"range": 0,
+		"durability": 2,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Tenore Sax",
+		"power": 0,
+		"speed": 0,
+		"range": 1,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Tohth",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Dark Blue Moon",
+		"power": 2,
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Emperor",
+		"power": 3,
+		"speed": 3,
+		"range": 3,
+		"durability": 2,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Ebony Devil",
+		"power": 1,
+		"speed": 1,
+		"range": 4,
+		"durability": 3,
+		"precision": 1,
+		"potential": 3
+	},
+	{
+		"name": "Empress",
+		"power": 2,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Hanged Man",
+		"power": 2,
+		"speed": 4,
+		"range": 4,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Hermit Purple",
+		"power": 1,
+		"speed": 2,
+		"range": 1,
+		"durability": 4,
+		"precision": 1,
+		"potential": 0
+	},
+	{
+		"name": "Hierophant Green",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 3,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Justice",
+		"power": 1,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Lovers",
+		"power": 0,
+		"speed": 1,
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 0
+	},
+	{
+		"name": "Magician's Red",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Silver Chariot",
+		"power": 2,
+		"speed": 4,
+		"range": 2,
+		"durability": 3,
+		"precision": 3,
+		"potential": 2
+	},
+	{
+		"name": "Star Platinum",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 4,
+		"potential": 4
+	},
+	{
+		"name": "Strength",
+		"power": 3,
+		"speed": 1,
+		"range": 1,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Sun",
+		"power": 3,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "The Fool",
+		"power": 3,
+		"speed": 2,
+		"range": 1,
+		"durability": 2,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "The World",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 3,
+		"potential": 3
+	},
+	{
+		"name": "Tower of Gray",
+		"power": 0,
+		"speed": 4,
+		"range": 4,
+		"durability": 2,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Wheel of Fortune",
+		"power": 3,
+		"speed": 1,
+		"range": 1,
+		"durability": 4,
+		"precision": 0,
+		"potential": 1
+	},
+	{
+		"name": "Yellow Temperance",
+		"power": 1,
+		"speed": 2,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 1
+	},
+	{
+		"name": "Achtung Baby",
+		"power": 0,
+		"speed": 0,
+		"range": "None",
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Aqua Necklace",
+		"power": 2,
+		"speed": 2,
+		"range": 4,
+		"durability": 4,
+		"precision": 2,
+		"potential": 0
+	},
+	{
+		"name": "Atom Heart Father",
+		"power": 0,
+		"speed": 0,
+		"range": "None",
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Bad Company",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Boy II Man",
+		"power": 2,
+		"speed": 3,
+		"range": 3,
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Cheap Trick",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Cinderella",
+		"power": 1,
+		"speed": 2,
+		"range": 2,
+		"durability": 2,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Crazy Diamond",
+		"power": 4,
+		"speed": 4,
+		"range": 1,
+		"durability": 3,
+		"precision": 3,
+		"potential": 2
+	},
+	{
+		"name": "Enigma",
+		"power": 0,
+		"speed": 0,
+		"range": 2,
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Earth Wind and Fire",
+		"power": 2,
+		"speed": 2,
+		"range": "None",
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Harvest",
+		"power": 0,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Heaven's Door",
+		"power": 1,
+		"speed": 3,
+		"range": 3,
+		"durability": 3,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Highway Star",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Killer Queen",
+		"power": 4,
+		"speed": 3,
+		"range": 1,
+		"durability": 3,
+		"precision": 3,
+		"potential": 4
+	},
+	{
+		"name": "Sheer Heart Attack",
+		"power": 4,
+		"speed": 2,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Bites the Dust",
+		"power": 3,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 4
+	},
+	{
+		"name": "Love Deluxe",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 4,
+		"precision": 0,
+		"potential": 3
+	},
+	{
+		"name": "Pearl Jam",
+		"power": 0,
+		"speed": 2,
+		"range": 3,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Ratt",
+		"power": 3,
+		"speed": 2,
+		"range": 1,
+		"durability": 3,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Red Hot Chili Pepper",
+		"power": 4,
+		"speed": 4,
+		"range": 4,
+		"durability": 4,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Super Fly",
+		"power": 0,
+		"speed": 0,
+		"range": "None",
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Surface",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "The Lock",
+		"power": 0,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "The Hand",
+		"power": 3,
+		"speed": 3,
+		"range": 1,
+		"durability": 2,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Echoes (ACT1)",
+		"power": 0,
+		"speed": 0,
+		"range": 3,
+		"durability": 3,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Echoes (ACT2)",
+		"power": 2,
+		"speed": 1,
+		"range": 3,
+		"durability": 3,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Echoes (ACT3)",
+		"power": 3,
+		"speed": 3,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Star Platinum: The World",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 0,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Stray Cat",
+		"power": 3,
+		"speed": 0,
+		"range": "None",
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Black Sabbath",
+		"power": 4,
+		"speed": 4,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Baby Face",
+		"power": 4,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Gold Experience",
+		"power": 2,
+		"speed": 4,
+		"range": 2,
+		"durability": 1,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Sticky Fingers",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 1,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Metallica",
+		"power": 2,
+		"speed": 2,
+		"range": 2,
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Purple Haze",
+		"power": 4,
+		"speed": 3,
+		"range": 2,
+		"durability": 0,
+		"precision": 0,
+		"potential": 3
+	},
+	{
+		"name": "Moody Blues",
+		"power": 2,
+		"speed": 2,
+		"range": 4,
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Sex Pistols",
+		"power": 0,
+		"speed": 2,
+		"range": 3,
+		"durability": 4,
+		"precision": 4,
+		"potential": 3
+	},
+	{
+		"name": "The Grateful Dead",
+		"power": 3,
+		"speed": 0,
+		"range": 3,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Aerosmith",
+		"power": 3,
+		"speed": 3,
+		"range": 3,
+		"durability": 2,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Beach Boy",
+		"power": 2,
+		"speed": 3,
+		"range": 3,
+		"durability": 2,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Man in the Mirror",
+		"power": 2,
+		"speed": 2,
+		"range": 3,
+		"durability": 1,
+		"precision": 2,
+		"potential": 0
+	},
+	{
+		"name": "Baby Face�(GoGo)",
+		"power": 4,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Chariot Requiem",
+		"power": 0,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Clash",
+		"power": 1,
+		"speed": 4,
+		"range": 3,
+		"durability": 4,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Echoes (ACT3)",
+		"power": 4,
+		"speed": 2,
+		"range": 1,
+		"durability": 2,
+		"precision": 2,
+		"potential": 3
+	},
+	{
+		"name": "Gold Experience Requiem",
+		"power": 5,
+		"speed": 5,
+		"range": 5,
+		"durability": 5,
+		"precision": 5,
+		"potential": 5
+	},
+	{
+		"name": "Green Day",
+		"power": 4,
+		"speed": 2,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "King Crimson",
+		"power": 4,
+		"speed": 4,
+		"range": 0,
+		"durability": 0,
+		"precision": 3,
+		"potential": 5
+	},
+	{
+		"name": "Kraft Work",
+		"power": 4,
+		"speed": 4,
+		"range": 0,
+		"durability": 2,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Little Feet",
+		"power": 1,
+		"speed": 3,
+		"range": 0,
+		"durability": 4,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "Mr.President",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Notorious B.I.G",
+		"power": 4,
+		"speed": 5,
+		"range": 5,
+		"durability": 5,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Oasis",
+		"power": 4,
+		"speed": 4,
+		"range": 3,
+		"durability": 4,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Rolling Stones",
+		"power": "None",
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": "None"
+	},
+	{
+		"name": "Soft Machine",
+		"power": 4,
+		"speed": 2,
+		"range": 0,
+		"durability": 4,
+		"precision": 1,
+		"potential": 0
+	},
+	{
+		"name": "Spice Girl",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 3,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "Talking Head",
+		"power": 0,
+		"speed": 0,
+		"range": 3,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "White Album",
+		"power": 4,
+		"speed": 2,
+		"range": 2,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Whitesnake",
+		"power": 4,
+		"speed": 1,
+		"range": 3,
+		"durability": 4,
+		"precision": 2,
+		"potential": 0
+	},
+	{
+		"name": "C-Moon",
+		"power": "None",
+		"speed": 3,
+		"range": 3,
+		"durability": 3,
+		"precision": 4,
+		"potential": 1
+	},
+	{
+		"name": "Jail House Lock",
+		"power": "None",
+		"speed": 2,
+		"range": 3,
+		"durability": 4,
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Stone Free",
+		"power": 4,
+		"speed": 3,
+		"range": 2,
+		"durability": 4,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Goo Goo Dolls",
+		"power": 1,
+		"speed": 2,
+		"range": 3,
+		"durability": 1,
+		"precision": 3,
+		"potential": 3
+	},
+	{
+		"name": "Under World",
+		"power": "None",
+		"speed": 2,
+		"range": 4,
+		"durability": 2,
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Sky High",
+		"power": "None",
+		"speed": "None",
+		"range": 3,
+		"durability": 2,
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Star Platinum",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 4,
+		"potential": "None"
+	},
+	{
+		"name": "Bohemian Rhapsody",
+		"power": "None",
+		"speed": "None",
+		"range": 5,
+		"durability": 4,
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Burning Down the House",
+		"power": "None",
+		"speed": "None",
+		"range": "None",
+		"durability": "None",
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Diver Down",
+		"power": 4,
+		"speed": 4,
+		"range": 0,
+		"durability": 2,
+		"precision": 3,
+		"potential": 3
+	},
+	{
+		"name": "Dragon's Dream",
+		"power": "None",
+		"speed": "None",
+		"range": "None",
+		"durability": 4,
+		"precision": "None",
+		"potential": "None"
+	},
+	{
+		"name": "Foo Fighters",
+		"power": 3,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 2,
+		"potential": 3
+	},
+	{
+		"name": "\"Green",
+		"power": " Green Grass of Home\"",
+		"speed": "None",
+		"range": 2,
+		"durability": 4,
+		"precision": 4,
+		"potential": 4
+	},
+	{
+		"name": "Highway to Hell",
+		"power": 2,
+		"speed": 2,
+		"range": 4,
+		"durability": 2,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Kiss",
+		"power": 4,
+		"speed": 4,
+		"range": 4,
+		"durability": 4,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Jumpin' Jack Flash",
+		"power": 3,
+		"speed": 2,
+		"range": 3,
+		"durability": 4,
+		"precision": 1,
+		"potential": 0
+	},
+	{
+		"name": "Limp Bizkit",
+		"power": "None",
+		"speed": 3,
+		"range": 3,
+		"durability": 4,
+		"precision": 2,
+		"potential": 0
+	},
+	{
+		"name": "Made in Heaven",
+		"power": 3,
+		"speed": 5,
+		"range": 2,
+		"durability": 4,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Manhattan Transfer",
+		"power": 0,
+		"speed": 0,
+		"range": 4,
+		"durability": 4,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Marilyn Manson",
+		"power": 0,
+		"speed": 4,
+		"range": 4,
+		"durability": 4,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Planet Waves",
+		"power": 4,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Survivor",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 2,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Weather Report",
+		"power": 4,
+		"speed": 3,
+		"range": 2,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Yo-Yo Ma",
+		"power": 2,
+		"speed": 1,
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "0th Century Boy",
+		"power": "None",
+		"speed": 2,
+		"range": "None",
+		"durability": 4,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "Ball Breaker",
+		"power": 4,
+		"speed": 4,
+		"range": 1,
+		"durability": 3,
+		"precision": 2,
+		"potential": 3
+	},
+	{
+		"name": "Boku no Rhythm wo Kiitekure",
+		"power": 3,
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Catch the Rainbow",
+		"power": 2,
+		"speed": 2,
+		"range": 3,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Chocolate Disco",
+		"power": "None",
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 4,
+		"potential": 1
+	},
+	{
+		"name": "Civil War",
+		"power": "None",
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": "None"
+	},
+	{
+		"name": "Cream Starter",
+		"power": 1,
+		"speed": 2,
+		"range": 2,
+		"durability": 4,
+		"precision": 0,
+		"potential": 3
+	},
+	{
+		"name": "Dirty Deeds Done Dirt Cheap",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 4,
+		"potential": 4
+	},
+	{
+		"name": "D4C Love Train",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 4,
+		"potential": 2
+	},
+	{
+		"name": "Hey Ya!",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 3,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "In a Silent Way",
+		"power": 2,
+		"speed": 2,
+		"range": 1,
+		"durability": 4,
+		"precision": 1,
+		"potential": 3
+	},
+	{
+		"name": "Mandom",
+		"power": "None",
+		"speed": 4,
+		"range": "None",
+		"durability": 0,
+		"precision": "None",
+		"potential": 2
+	},
+	{
+		"name": "Oh! Lonesome Me",
+		"power": 0,
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 1
+	},
+	{
+		"name": "Scary Monsters",
+		"power": 3,
+		"speed": 3,
+		"range": 1,
+		"durability": 4,
+		"precision": 2,
+		"potential": 3
+	},
+	{
+		"name": "Sugar Mountain",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Tatoo You!",
+		"power": "None",
+		"speed": 0,
+		"range": 2,
+		"durability": 3,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Ticket to Ride",
+		"power": 0,
+		"speed": 0,
+		"range": 0,
+		"durability": 2,
+		"precision": 0,
+		"potential": 2
+	},
+	{
+		"name": "Tomb of the Boom 1 2 3",
+		"power": 1,
+		"speed": 2,
+		"range": 2,
+		"durability": 3,
+		"precision": 2,
+		"potential": 2
+	},
+	{
+		"name": "Tubular Bells",
+		"power": 1,
+		"speed": 1,
+		"range": 1,
+		"durability": 4,
+		"precision": 0,
+		"potential": 3
+	},
+	{
+		"name": "Tusk ACT1",
+		"power": 0,
+		"speed": 0,
+		"range": 1,
+		"durability": 3,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Tusk ACT2",
+		"power": 1,
+		"speed": 1,
+		"range": 3,
+		"durability": 2,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Tusk ACT3",
+		"power": 1,
+		"speed": 1,
+		"range": 3,
+		"durability": 1,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Tusk ACT4",
+		"power": 4,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 3,
+		"potential": 0
+	},
+	{
+		"name": "Wired",
+		"power": 1,
+		"speed": 3,
+		"range": 3,
+		"durability": 3,
+		"precision": 1,
+		"potential": 1
+	},
+	{
+		"name": "Born This Way",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "California King Bed",
+		"power": "None",
+		"speed": "None",
+		"range": 0,
+		"durability": 3,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Fun Fun Fun",
+		"power": 0,
+		"speed": 2,
+		"range": 1,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Nut King Call",
+		"power": 2,
+		"speed": 1,
+		"range": 2,
+		"durability": 4,
+		"precision": 0,
+		"potential": 4
+	},
+	{
+		"name": "Paisley Park",
+		"power": "None",
+		"speed": "None",
+		"range": 4,
+		"durability": 4,
+		"precision": 1,
+		"potential": 2
+	},
+	{
+		"name": "Paper Moon King",
+		"power": 0,
+		"speed": 0,
+		"range": 2,
+		"durability": 2,
+		"precision": 3,
+		"potential": 0
+	},
+	{
+		"name": "Soft & Wet",
+		"power": 2,
+		"speed": 3,
+		"range": 1,
+		"durability": 3,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Manic Depression",
+		"power": 2,
+		"speed": 4,
+		"range": 0,
+		"durability": 3,
+		"precision": 3,
+		"potential": 2
+	},
+	{
+		"name": "Voodoo Child",
+		"power": 3,
+		"speed": 4,
+		"range": 0,
+		"durability": 0,
+		"precision": 3,
+		"potential": 3
+	},
+	{
+		"name": "All Along Watchtower",
+		"power": 2,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 4,
+		"potential": 0
+	},
+	{
+		"name": "Dolly Dagger",
+		"power": 4,
+		"speed": 4,
+		"range": 2,
+		"durability": 4,
+		"precision": 3,
+		"potential": 2
+	},
+	{
+		"name": "Nightbird Flying",
+		"power": 0,
+		"speed": 4,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Purple Haze Distortion",
+		"power": 4,
+		"speed": 3,
+		"range": 0,
+		"durability": 0,
+		"precision": 2,
+		"potential": 4
+	},
+	{
+		"name": "Rainy Day Dream Away",
+		"power": 0,
+		"speed": 3,
+		"range": 4,
+		"durability": 4,
+		"precision": 0,
+		"potential": 0
+	},
+	{
+		"name": "Remote Romance",
+		"power": 0,
+		"speed": 1,
+		"range": 5,
+		"durability": 3,
+		"precision": 2,
+		"potential": 0
+	},
+	{
+		"name": "House of Holy",
+		"power": 0,
+		"speed": 3,
+		"range": 2,
+		"durability": 4,
+		"precision": 1,
+		"potential": 1
+	}
+]

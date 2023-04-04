@@ -203,8 +203,6 @@ function drawChart(canvas, stats) {
 	}
 }
 
-// https://charts.idrlabs.com/graphic/autism-spectrum?2&p=60,100,60,50,85,70,90,95,80,35&l=FR
-
 const chartForm = document.getElementById("chart-form");
 const chartUrlInput = document.getElementById("chart-url");
 const standRevealSection = document.getElementById("stand-reveal");

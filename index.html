@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<script src="script.js" type="module" defer></script>
+		<title>Document</title>
+	</head>
+	<body>
+		<form id="chart-form">
+			<input type="text" id="chart-url" />
+			<button type="submit">Submit</button>
+		</form>
+		<section hidden id="stand-reveal">
+			<article>
+				<h2 id="stand-name"></h2>
+				<div>
+					<p>Power: <span id="stand-stats-power"></span></p>
+					<p>Speed: <span id="stand-stats-speed"></span></p>
+					<p>Range: <span id="stand-stats-range"></span></p>
+					<p>Durability: <span id="stand-stats-durability"></span></p>
+					<p>Precision: <span id="stand-stats-precision"></span></p>
+					<p>Potential: <span id="stand-stats-potential"></span></p>
+				</div>
+				<canvas id="stand-chart-canvas" width="320" height="320"></canvas>
+			</article>
+		</section>
+	</body>
+</html>
